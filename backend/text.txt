@@ -1,0 +1,57 @@
+8/9/23, 9:23 AM
+
+Planify
+
+Stages
+
+Overdue
+
+Due Today
+
+Due Tomorrow
+
+Due Later
+
+Whishlist
+Events that we wish to organize
+
+Create Task
+
+Due Later
+
+Title: Badminton event
+Description: sports
+
+Mandatory
+Events that are mandatory to be organized
+
+Create Task
+
+Title: Singing Competition
+Description: singing
+
+Due Today
+
+127.0.0.1:5173/board/136
+
+1/2
+
+8/9/23, 9:23 AM
+
+Planify
+
+Pending reviews
+To be reviewed by final authority.
+
+Create Task
+
+Due Tomorrow
+
+Title: Dance competition
+Description: dance
+
+127.0.0.1:5173/board/136
+
+2/2
+
+
